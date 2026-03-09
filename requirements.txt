@@ -1,0 +1,25 @@
+👩‍💻 Programming Language
+- Python
+📊 Data Analysis & Manipulation
+-Pandas
+-NumPy
+📈 Data Visualization
+ -Matplotlib
+ -Seaborn
+ -Power BI
+ 🤖 Machine Learning
+ -Scikit-learn
+ -Imbalanced-learn (SMOTE)
+ ⚙️ Model Evaluation
+ -Confusion Matrix
+ -Precision, 
+ -Recall,
+ -F1-Score
+ -ROC-AUC
+ 💾 Model Deployment & Storage
+ -Joblib  (Model Serialization)
+ 🧪 Development Environment
+ -Jupyter Notebook     
+ -VS Code
+🔧 Version Control
+ -Git and  GitHub
