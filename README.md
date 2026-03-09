@@ -20,7 +20,7 @@ This system aims to:
 - Reduce financial losses.
 - Provide business insights through dashboard reporting.
 
-
+```
 ## 🗂️ Project Structure
 
 Fraud-Detection-ML-Project/
@@ -43,7 +43,7 @@ Fraud_Detection_project/
 ├── requirements.txt
 ├── README.md
 
-
+```
 
 ## ⚙️ Technologies Used
 
@@ -136,5 +136,6 @@ A Power BI dashboard was created using exported model predictions to visualize:
 - Fraud Probability Distribution
 
 The dashboard enables business users to monitor fraud detection performance interactively.
+
 
 
